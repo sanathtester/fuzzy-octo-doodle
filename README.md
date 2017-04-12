@@ -1,3 +1,3 @@
 # fuzzy-octo-doodle
-My test project
+My test proj
 Second line
